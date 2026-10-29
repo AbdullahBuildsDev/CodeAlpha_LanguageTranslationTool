@@ -1,0 +1,3 @@
+deep-translator>=1.11.4
+# Optional (for the "Speak" / text-to-speech button). The app also works without it.
+pyttsx3>=2.90
